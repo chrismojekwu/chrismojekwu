@@ -1,4 +1,4 @@
-### Hi I'm Chris
+### Chris Mojekwu - Software Engineer
 
 🔭 I’m currently working on
 
