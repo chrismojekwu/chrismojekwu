@@ -12,7 +12,7 @@
 
 
 🌱 I’m currently learning 
-- C#, C++, Java, .NET, & DSA
+- C#, C++, Java, .NET, & Python
 
 📓 Track my progress:
 
