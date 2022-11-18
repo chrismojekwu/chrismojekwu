@@ -1,4 +1,4 @@
-### Hi I'm Chris👋🏿
+### Hi I'm Chris
 
 🔭 I’m currently working on
 
