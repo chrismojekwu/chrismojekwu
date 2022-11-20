@@ -6,8 +6,6 @@
 
 - [react-smartmultiparts](https://www.npmjs.com/package/react-smartmultiparts) ..an open source React form library
 
-- [Way Too](https://waytoo.fun/) ..a digital marketing platform
-
 
 
 
