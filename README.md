@@ -10,7 +10,7 @@
 
 
 🌱 I’m currently learning 
-- C#, C++, Java, .NET, & Python
+- C#, C++, Java, & Python
 
 📓 Track my progress:
 
