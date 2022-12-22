@@ -16,5 +16,3 @@
 
 - [Leetcode](https://leetcode.com/chrismojekwu/)
 
-- [Microsoft Learn](https://learn.microsoft.com/en-us/users/christophermojekwu-2336/)
-
