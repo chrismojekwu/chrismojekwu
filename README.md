@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on
 
-- [Kids Learn](https://kidslearn.fun/) ..an early education website
+- [Kids Learn](https://kidslearn.fun/) ..an early childhood education website
 
 - [react-smartmultiparts](https://www.npmjs.com/package/react-smartmultiparts) ..an open source React form library
 
