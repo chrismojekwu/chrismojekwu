@@ -4,7 +4,7 @@
 
 - [Kids Learn](https://kidslearn.fun/) ..an early childhood education website
 
-- [react-smartmultiparts](https://www.npmjs.com/package/react-smartmultiparts) ..an open source React form library
+- [react-smartmultiparts](https://www.npmjs.com/package/react-smartmultiparts) ..open source React form components
 
 
 
