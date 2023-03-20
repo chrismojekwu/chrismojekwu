@@ -1,4 +1,4 @@
-### Chris Mojekwu - Frontend Engineer
+### Chris Mojekwu - Software Engineer
 
 🔭 I’m currently working on
 
