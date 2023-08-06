@@ -7,12 +7,3 @@
 - [react-smartmultiparts](https://www.npmjs.com/package/react-smartmultiparts) ..open source React form components
 
 
-
-
-🌱 I’m currently learning 
-- C++, C#, Java, & Python
-
-📓 Track my progress:
-
-- [Leetcode](https://leetcode.com/chrismojekwu/)
-
