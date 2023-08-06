@@ -1,4 +1,4 @@
-### Chris Mojekwu - Software Engineer
+### Chris Mojekwu - Software Engineer at Videate
 
 🔭 I’m currently working on
 
